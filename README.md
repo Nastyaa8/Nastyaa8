@@ -1,11 +1,11 @@
 <table align="center">
   <tr>
     <td>
-    <img src="https://i.postimg.cc/tgWnqKrR/carrd-gif.gif" width="300" />
+      <img src="https://i.postimg.cc/tgWnqKrR/carrd-gif.gif" width="300" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nastyaa8&show_icons=true&theme=tokyonight" /><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nastyaa8&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Nastyaa8&show_icons=true&theme=rose_pine" /><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nastyaa8&layout=compact&theme=rose_pine" />
     </td>
   </tr>
 </table>
