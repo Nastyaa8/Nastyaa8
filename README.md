@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://ru.pinterest.com/pin/23784704277149508/" width="300" />
+      <img src="https://postimg.cc/065yZBRh" width="300" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Nastyaa8&show_icons=true&theme=tokyonight" /><br>
